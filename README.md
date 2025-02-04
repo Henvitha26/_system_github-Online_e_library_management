@@ -53,4 +53,4 @@ This is a simple **Online Library Management System** designed for schools and c
 This project is for educational purposes only.
 
 ---
-**Contributors:** Feel free to contribute to enhance the project!
+
